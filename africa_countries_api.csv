@@ -1,0 +1,60 @@
+Country,Capital,Subregion,Population,Area_km2,Nb_Languages,Nb_Currencies,Landlocked,Nb_Borders
+Nigeria,Abuja,Western Africa,223800000,923768.0,1,1,False,4
+DR Congo,Kinshasa,Middle Africa,112832000,2344858.0,5,1,False,9
+Ethiopia,Addis Ababa,Eastern Africa,111652998,1104300.0,1,1,True,6
+Egypt,Cairo,Northern Africa,107271260,1002450.0,1,1,False,4
+Tanzania,Dodoma,Eastern Africa,68153004,947303.0,2,1,False,8
+South Africa,Pretoria,Southern Africa,63100945,1221037.0,11,1,False,6
+Kenya,Nairobi,Eastern Africa,53330978,580367.0,2,1,False,5
+Sudan,Khartoum,Northern Africa,51662000,1886068.0,2,1,False,7
+Algeria,Algiers,Northern Africa,47400000,2381741.0,1,1,False,7
+Uganda,Kampala,Eastern Africa,45905417,241550.0,2,1,True,5
+Morocco,Rabat,Northern Africa,36828330,446550.0,2,1,False,3
+Angola,Luanda,Middle Africa,36170961,1246700.0,1,1,False,4
+Mozambique,Maputo,Eastern Africa,34090466,801590.0,1,1,False,6
+Ghana,Accra,Western Africa,33742380,238533.0,1,1,False,3
+Madagascar,Antananarivo,Eastern Africa,31727042,587041.0,2,1,False,0
+Ivory Coast,Yamoussoukro,Western Africa,31719275,322463.0,1,1,False,5
+Cameroon,Yaoundé,Middle Africa,29442327,475442.0,2,1,False,6
+Niger,Niamey,Western Africa,26312034,1267000.0,1,1,True,7
+Burkina Faso,Ouagadougou,Western Africa,24070553,272967.0,1,1,True,6
+Mali,Bamako,Western Africa,22395489,1240192.0,1,1,True,7
+Malawi,Lilongwe,Eastern Africa,20734262,118484.0,2,1,True,3
+Zambia,Lusaka,Eastern Africa,19693423,752612.0,1,1,True,8
+Somalia,Mogadishu,Eastern Africa,19655000,637657.0,2,1,False,3
+Chad,N'Djamena,Middle Africa,19340757,1284000.0,2,1,True,6
+Senegal,Dakar,Western Africa,18593258,196722.0,1,1,False,5
+Zimbabwe,Harare,Southern Africa,17073087,390757.0,15,1,True,4
+South Sudan,Juba,Middle Africa,15786898,619745.0,1,1,True,6
+Guinea,Conakry,Western Africa,14363931,245857.0,1,1,False,6
+Rwanda,Kigali,Eastern Africa,14104969,26338.0,3,1,True,4
+Benin,Porto-Novo,Western Africa,13224860,112622.0,1,1,False,4
+Burundi,Gitega,Eastern Africa,12332788,27834.0,2,1,True,3
+Tunisia,Tunis,Northern Africa,11972169,163610.0,1,1,False,2
+Sierra Leone,Freetown,Western Africa,9077691,71740.0,1,1,False,2
+Togo,Lomé,Western Africa,8095498,56785.0,1,1,False,3
+Libya,Tripoli,Northern Africa,7459000,1759540.0,1,1,False,6
+Central African Republic,Bangui,Middle Africa,6470307,622984.0,2,1,True,6
+Republic of the Congo,Brazzaville,Middle Africa,6142180,342000.0,3,1,False,5
+Liberia,Monrovia,Western Africa,5248621,111369.0,1,1,False,3
+Mauritania,Nouakchott,Western Africa,4927532,1030700.0,1,1,False,4
+Eritrea,Asmara,Eastern Africa,3607000,117600.0,3,1,False,3
+Namibia,Windhoek,Southern Africa,3022401,825615.0,9,2,False,4
+Gabon,Libreville,Middle Africa,2469296,267668.0,1,1,False,3
+Gambia,Banjul,Western Africa,2422712,10689.0,1,1,False,1
+Botswana,Gaborone,Southern Africa,2359609,582000.0,2,1,True,4
+Lesotho,Maseru,Southern Africa,2116427,30355.0,2,2,True,1
+Guinea-Bissau,Bissau,Western Africa,1781308,36125.0,2,1,False,2
+Equatorial Guinea,Ciudad de la Paz,Middle Africa,1668768,28051.0,3,1,False,2
+Mauritius,Port Louis,Eastern Africa,1243741,2040.0,3,1,False,0
+Eswatini,Mbabane,Southern Africa,1235549,17364.0,2,2,True,2
+Djibouti,Djibouti,Eastern Africa,1066809,23200.0,2,1,False,3
+Comoros,Moroni,Eastern Africa,919901,1862.0,3,1,False,0
+Réunion,Saint-Denis,Eastern Africa,896175,2511.0,1,1,False,0
+Western Sahara,El Aaiún,Northern Africa,600904,266000.0,3,3,False,3
+Cape Verde,Praia,Western Africa,491233,4033.0,1,1,False,0
+Mayotte,Mamoudzou,Eastern Africa,320901,374.0,1,1,False,0
+São Tomé and Príncipe,São Tomé,Middle Africa,209607,964.0,1,1,False,0
+Seychelles,Victoria,Eastern Africa,122729,452.0,3,1,False,0
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,Western Africa,5651,394.0,1,2,False,0
+British Indian Ocean Territory,Diego Garcia,Eastern Africa,0,60.0,1,1,False,0

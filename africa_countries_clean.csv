@@ -1,0 +1,60 @@
+country,african_region,total_population,area_km2,language_count,currency_count,is_landlocked,border_count,population_density,population_rank,area_category,linguistic_diversity_level,connectivity_profile,complexity_score
+Nigeria,Western Africa,223800000,923768.0,1,1,0,4,242.27,1,Very Large,Low,Coastal High Connect,46.26
+DR Congo,Middle Africa,112832000,2344858.0,5,1,0,9,48.12,2,Very Large,Medium,Coastal High Connect,59.15
+Ethiopia,Eastern Africa,111652998,1104300.0,1,1,1,6,101.11,3,Very Large,Low,Landlocked Connected,32.08
+Egypt,Northern Africa,107271260,1002450.0,1,1,0,4,107.01,4,Very Large,Low,Coastal High Connect,30.01
+Tanzania,Eastern Africa,68153004,947303.0,2,1,0,8,71.94,5,Very Large,Low,Coastal High Connect,25.79
+South Africa,Southern Africa,63100945,1221037.0,11,1,0,6,51.68,6,Very Large,Very High,Coastal High Connect,50.3
+Kenya,Eastern Africa,53330978,580367.0,2,1,0,5,91.89,7,Large,Low,Coastal High Connect,18.45
+Sudan,Northern Africa,51662000,1886068.0,2,1,0,7,27.39,8,Very Large,Low,Coastal High Connect,36.47
+Algeria,Northern Africa,47400000,2381741.0,1,1,0,7,19.9,9,Very Large,Low,Coastal High Connect,40.39
+Uganda,Eastern Africa,45905417,241550.0,2,1,1,5,190.05,10,Medium,Low,Landlocked Connected,12.6
+Morocco,Northern Africa,36828330,446550.0,2,1,0,3,82.47,11,Large,Low,Coastal High Connect,14.12
+Angola,Middle Africa,36170961,1246700.0,1,1,0,4,29.01,12,Very Large,Low,Coastal High Connect,22.84
+Mozambique,Eastern Africa,34090466,801590.0,1,1,0,6,42.53,13,Large,Low,Coastal High Connect,16.3
+Ghana,Western Africa,33742380,238533.0,1,1,0,3,141.46,14,Medium,Low,Coastal High Connect,8.36
+Madagascar,Eastern Africa,31727042,587041.0,2,1,0,0,54.05,15,Large,Low,Coastal Low Connect,15.32
+Ivory Coast,Western Africa,31719275,322463.0,1,1,0,5,98.37,16,Large,Low,Coastal High Connect,9.24
+Cameroon,Middle Africa,29442327,475442.0,2,1,0,6,61.93,17,Large,Low,Coastal High Connect,13.42
+Niger,Western Africa,26312034,1267000.0,1,1,1,7,20.77,18,Very Large,Low,Landlocked Connected,21.65
+Burkina Faso,Western Africa,24070553,272967.0,1,1,1,6,88.18,19,Large,Low,Landlocked Connected,7.4
+Mali,Western Africa,22395489,1240192.0,1,1,1,7,18.06,20,Very Large,Low,Landlocked Connected,20.69
+Malawi,Eastern Africa,20734262,118484.0,2,1,1,3,175.0,21,Medium,Low,Landlocked Connected,7.13
+Zambia,Eastern Africa,19693423,752612.0,1,1,1,8,26.17,22,Large,Low,Landlocked Connected,13.47
+Somalia,Eastern Africa,19655000,637657.0,2,1,0,3,30.82,23,Large,Low,Coastal High Connect,14.23
+Chad,Middle Africa,19340757,1284000.0,2,1,1,6,15.06,24,Very Large,Low,Landlocked Connected,23.23
+Senegal,Western Africa,18593258,196722.0,1,1,0,5,94.52,25,Medium,Low,Coastal High Connect,5.52
+Zimbabwe,Southern Africa,17073087,390757.0,15,1,1,4,43.69,26,Large,Very High,Landlocked Connected,41.34
+South Sudan,Middle Africa,15786898,619745.0,1,1,1,6,25.47,27,Large,Low,Landlocked Connected,11.02
+Guinea,Western Africa,14363931,245857.0,1,1,0,6,58.42,28,Medium,Low,Coastal High Connect,5.58
+Rwanda,Eastern Africa,14104969,26338.0,3,1,1,4,535.54,29,Small,Low,Landlocked Connected,7.23
+Benin,Western Africa,13224860,112622.0,1,1,0,4,117.43,30,Medium,Low,Coastal High Connect,3.55
+Burundi,Eastern Africa,12332788,27834.0,2,1,1,3,443.08,31,Small,Low,Landlocked Connected,4.61
+Tunisia,Northern Africa,11972169,163610.0,1,1,0,2,73.18,32,Medium,Low,Coastal Low Connect,4.07
+Sierra Leone,Western Africa,9077691,71740.0,1,1,0,2,126.54,33,Medium,Low,Coastal Low Connect,2.36
+Togo,Western Africa,8095498,56785.0,1,1,0,3,142.56,34,Medium,Low,Coastal High Connect,2.0
+Libya,Northern Africa,7459000,1759540.0,1,1,0,6,4.24,35,Very Large,Low,Coastal High Connect,25.74
+Central African Republic,Middle Africa,6470307,622984.0,2,1,1,6,10.39,36,Large,Low,Landlocked Connected,12.06
+Republic of the Congo,Middle Africa,6142180,342000.0,3,1,0,5,17.96,37,Large,Low,Coastal High Connect,10.46
+Liberia,Western Africa,5248621,111369.0,1,1,0,3,47.13,38,Medium,Low,Coastal High Connect,2.34
+Mauritania,Western Africa,4927532,1030700.0,1,1,0,4,4.78,39,Very Large,Low,Coastal High Connect,15.16
+Eritrea,Eastern Africa,3607000,117600.0,3,1,0,3,30.67,40,Medium,Low,Coastal High Connect,6.94
+Namibia,Southern Africa,3022401,825615.0,9,2,0,4,3.66,41,Very Large,High,Coastal High Connect,31.05
+Gabon,Middle Africa,2469296,267668.0,1,1,0,3,9.23,42,Medium,Low,Coastal High Connect,4.11
+Gambia,Western Africa,2422712,10689.0,1,1,0,1,226.65,43,Small,Low,Coastal Low Connect,0.51
+Botswana,Southern Africa,2359609,582000.0,2,1,1,4,4.05,44,Large,Low,Landlocked Connected,10.88
+Lesotho,Southern Africa,2116427,30355.0,2,2,1,1,69.72,45,Medium,Low,Isolated,3.12
+Guinea-Bissau,Western Africa,1781308,36125.0,2,1,0,2,49.31,46,Medium,Low,Coastal Low Connect,3.15
+Equatorial Guinea,Middle Africa,1668768,28051.0,3,1,0,2,59.49,47,Small,Low,Coastal Low Connect,5.4
+Mauritius,Eastern Africa,1243741,2040.0,3,1,0,0,609.68,48,Small,Low,Coastal Low Connect,4.97
+Eswatini,Southern Africa,1235549,17364.0,2,2,1,2,71.16,49,Small,Low,Isolated,2.81
+Djibouti,Eastern Africa,1066809,23200.0,2,1,0,3,45.98,50,Small,Low,Coastal High Connect,2.86
+Comoros,Eastern Africa,919901,1862.0,3,1,0,0,494.04,51,Small,Low,Coastal Low Connect,4.92
+Réunion,Eastern Africa,896175,2511.0,1,1,0,0,356.9,52,Small,Low,Coastal Low Connect,0.17
+Western Sahara,Northern Africa,600904,266000.0,3,3,0,3,2.26,53,Medium,Low,Coastal High Connect,8.57
+Cape Verde,Western Africa,491233,4033.0,1,1,0,0,121.8,54,Small,Low,Coastal Low Connect,0.13
+Mayotte,Eastern Africa,320901,374.0,1,1,0,0,858.02,55,Small,Low,Coastal Low Connect,0.05
+São Tomé and Príncipe,Middle Africa,209607,964.0,1,1,0,0,217.43,56,Small,Low,Coastal Low Connect,0.04
+Seychelles,Eastern Africa,122729,452.0,3,1,0,0,271.52,57,Small,Low,Coastal Low Connect,4.79
+"Saint Helena, Ascension and Tristan da Cunha",Western Africa,5651,394.0,1,2,0,0,14.34,58,Small,Low,Coastal Low Connect,0.01
+British Indian Ocean Territory,Eastern Africa,0,60.0,1,1,0,0,0.0,59,Small,Low,Coastal Low Connect,0.0
